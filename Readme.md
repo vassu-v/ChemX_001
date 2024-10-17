@@ -132,6 +132,7 @@ The web interface communicates with the Arduino via **serial**, allowing you to 
 
 Want to see it in action?  
 [Check out a simple simulation of the ChemX project here!](https://wokwi.com/projects/411270808226922497) 🎉
+[Check out a simple WebInterface No-Serial of the ChemX project here!](https://chemx.freewebhostmost.com/) 🎉
 
 ---
 
@@ -145,6 +146,9 @@ Feel free to explore the project, and if you're interested in more details, dive
 
 Want to improve ChemX or add more chemical reactions? Contributions are always welcome! Feel free to fork this project, make improvements, and submit a pull request. Let's build something amazing together!
 
+This is the first stable version so a development branch is there please give a pull request there
+[Development Branch](https://github.com/vassu-v/ChemX_001/tree/Development) 
 ---
 
 Enjoy simulating and experimenting with ChemX! 👩‍🔬👨‍🔬
+                       --Shoryavardhaan
