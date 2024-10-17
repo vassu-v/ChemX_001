@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: purple;
+    color: white;
+}
+
+select {
+    font-size: 1.2em;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin: 15px;
+}
+
+.result {
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: white;
+}
+
+.equation {
+    background-color: black; /* Black background */
+    color: white; /* Text color to ensure visibility */
+    font-size: 1.5em; /* Increase font size */
+    padding: 10px; /* Add padding */
+    border-radius: 5px; /* Optional: rounded corners */
+    margin-top: 10px; /* Space above */
+}
+
+/* Style for the plus sign */
+.operation-sign {
+    font-size: 2em; /* Increase size of the plus sign */
+    color: white; /* Ensure visibility */
+}
+
+img {
+    width: 50px; /* Set the width of the icon */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align with the text */
+    margin-left: 10px; /* Space between title and icon */
+}

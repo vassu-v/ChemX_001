@@ -1,0 +1,24 @@
+{
+    "chemicals": [
+        { "name": "CH3COOH", "displayName": "Vinegar (Acetic Acid)", "color": "brown" },
+        { "name": "NaHCO3", "displayName": "Baking Soda (Sodium Bicarbonate)", "color": "white" },
+        { "name": "CH3COONa", "displayName": "Sodium Acetate", "color": "colorless" },
+        { "name": "H2O", "displayName": "Water", "color": "colorless" },
+        { "name": "CO2", "displayName": "Carbon Dioxide", "color": "colorless" },
+        { "name": "NaOH", "displayName": "Sodium Hydroxide", "color": "colorless" },
+        { "name": "HCl", "displayName": "Hydrochloric Acid", "color": "colorless" },
+        { "name": "CuSO4", "displayName": "Copper(II) Sulfate", "color": "blue" },
+        { "name": "Na2SO4", "displayName": "Sodium Sulfate", "color": "colorless" },
+        { "name": "Pb(NO3)2", "displayName": "Lead(II) Nitrate", "color": "colorless" },
+        { "name": "KI", "displayName": "Potassium Iodide", "color": "colorless" },
+        { "name": "PbI2", "displayName": "Lead(II) Iodide", "color": "yellow" },
+        { "name": "Zn", "displayName": "Zinc", "color": "silver" },
+        { "name": "H2SO4", "displayName": "Sulfuric Acid", "color": "colorless" },
+        { "name": "ZnSO4", "displayName": "Zinc Sulfate", "color": "colorless" },
+        { "name": "AgNO3", "displayName": "Silver Nitrate", "color": "colorless" },
+        { "name": "NaCl", "displayName": "Sodium Chloride", "color": "colorless" },
+        { "name": "AgCl", "displayName": "Silver Chloride", "color": "white" },
+        { "name": "Fe", "displayName": "Iron", "color": "silver" },
+        { "name": "FeSO4", "displayName": "Iron(II) Sulfate", "color": "green" }
+    ]
+}
