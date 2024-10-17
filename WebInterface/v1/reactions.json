@@ -1,0 +1,184 @@
+{
+  "reactions": [
+    {
+      "balancedEquation": "CH3COOH (aq) + NaHCO3 (aq) \u00e2\u2020\u2019 CH3COONa (aq) + H2O (l) + CO2 (g)",
+      "deposition": {
+        "details": "",
+        "occurs": false
+      },
+      "products": [
+        {
+          "chemical": "CH3COONa",
+          "color": "clear",
+          "state": "aqueous"
+        },
+        {
+          "chemical": "H2O",
+          "color": "clear",
+          "state": "liquid"
+        },
+        {
+          "chemical": "CO2",
+          "color": "colorless",
+          "state": "gas"
+        }
+      ],
+      "reactants": [
+        "CH3COOH",
+        "NaHCO3"
+      ],
+      "reactionId": "R001",
+      "reactionType": "Acid-Base Reaction"
+    },
+    {
+      "balancedEquation": "NaOH (aq) + HCl (aq) \u00e2\u2020\u2019 NaCl (aq) + H2O (l)",
+      "deposition": {
+        "details": "",
+        "occurs": false
+      },
+      "products": [
+        {
+          "chemical": "NaCl",
+          "color": "colorless",
+          "state": "aqueous"
+        },
+        {
+          "chemical": "H2O",
+          "color": "clear",
+          "state": "liquid"
+        }
+      ],
+      "reactants": [
+        "NaOH",
+        "HCl"
+      ],
+      "reactionId": "R002",
+      "reactionType": "Neutralization"
+    },
+    {
+      "balancedEquation": "CuSO4 (aq) + 2NaOH (aq) \u00e2\u2020\u2019 Cu(OH)2 (s) + Na2SO4 (aq)",
+      "deposition": {
+        "details": "Blue precipitate forms.",
+        "occurs": true
+      },
+      "products": [
+        {
+          "chemical": "Cu(OH)2",
+          "color": "blue",
+          "state": "solid"
+        },
+        {
+          "chemical": "Na2SO4",
+          "color": "colorless",
+          "state": "aqueous"
+        }
+      ],
+      "reactants": [
+        "CuSO4",
+        "NaOH"
+      ],
+      "reactionId": "R003",
+      "reactionType": "Precipitation"
+    },
+    {
+      "balancedEquation": "Pb(NO3)2 (aq) + 2KI (aq) \u00e2\u2020\u2019 PbI2 (s) + 2KNO3 (aq)",
+      "deposition": {
+        "details": "Yellow precipitate forms.",
+        "occurs": true
+      },
+      "products": [
+        {
+          "chemical": "PbI2",
+          "color": "yellow",
+          "state": "solid"
+        },
+        {
+          "chemical": "KNO3",
+          "color": "colorless",
+          "state": "aqueous"
+        }
+      ],
+      "reactants": [
+        "Pb(NO3)2",
+        "KI"
+      ],
+      "reactionId": "R004",
+      "reactionType": "Double Displacement"
+    },
+    {
+      "balancedEquation": "Zn (s) + H2SO4 (aq) \u00e2\u2020\u2019 ZnSO4 (aq) + H2 (g)",
+      "deposition": {
+        "details": "",
+        "occurs": false
+      },
+      "products": [
+        {
+          "chemical": "ZnSO4",
+          "color": "colorless",
+          "state": "aqueous"
+        },
+        {
+          "chemical": "H2",
+          "color": "colorless",
+          "state": "gas"
+        }
+      ],
+      "reactants": [
+        "Zn",
+        "H2SO4"
+      ],
+      "reactionId": "R005",
+      "reactionType": "Single Displacement"
+    },
+    {
+      "balancedEquation": "AgNO3 (aq) + NaCl (aq) \u00e2\u2020\u2019 AgCl (s) + NaNO3 (aq)",
+      "deposition": {
+        "details": "White precipitate forms.",
+        "occurs": true
+      },
+      "products": [
+        {
+          "chemical": "AgCl",
+          "color": "white",
+          "state": "solid"
+        },
+        {
+          "chemical": "NaNO3",
+          "color": "colorless",
+          "state": "aqueous"
+        }
+      ],
+      "reactants": [
+        "AgNO3",
+        "NaCl"
+      ],
+      "reactionId": "R006",
+      "reactionType": "Double Displacement/Precipitation"
+    },
+    {
+      "balancedEquation": "Fe (s) + CuSO4 (aq) \u00e2\u2020\u2019 FeSO4 (aq) + Cu (s)",
+      "deposition": {
+        "details": "",
+        "occurs": false
+      },
+      "products": [
+        {
+          "chemical": "FeSO4",
+          "color": "colorless",
+          "state": "aqueous"
+        },
+        {
+          "chemical": "Cu",
+          "color": "brown",
+          "state": "solid"
+        }
+      ],
+      "reactants": [
+        "Fe",
+        "CuSO4"
+      ],
+      "reactionId": "R007",
+      "reactionType": "Displacement Reaction"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "chemicals": [
+    {
+      "color": "brown",
+      "displayName": "Vinegar (Acetic Acid)",
+      "name": "CH3COOH"
+    },
+    {
+      "color": "white",
+      "displayName": "Baking Soda (Sodium Bicarbonate)",
+      "name": "NaHCO3"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Sodium Acetate",
+      "name": "CH3COONa"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Water",
+      "name": "H2O"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Carbon Dioxide",
+      "name": "CO2"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Sodium Hydroxide",
+      "name": "NaOH"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Hydrochloric Acid",
+      "name": "HCl"
+    },
+    {
+      "color": "blue",
+      "displayName": "Copper(II) Sulfate",
+      "name": "CuSO4"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Sodium Sulfate",
+      "name": "Na2SO4"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Lead(II) Nitrate",
+      "name": "Pb(NO3)2"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Potassium Iodide",
+      "name": "KI"
+    },
+    {
+      "color": "yellow",
+      "displayName": "Lead(II) Iodide",
+      "name": "PbI2"
+    },
+    {
+      "color": "silver",
+      "displayName": "Zinc",
+      "name": "Zn"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Sulfuric Acid",
+      "name": "H2SO4"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Zinc Sulfate",
+      "name": "ZnSO4"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Silver Nitrate",
+      "name": "AgNO3"
+    },
+    {
+      "color": "colorless",
+      "displayName": "Sodium Chloride",
+      "name": "NaCl"
+    },
+    {
+      "color": "white",
+      "displayName": "Silver Chloride",
+      "name": "AgCl"
+    },
+    {
+      "color": "silver",
+      "displayName": "Iron",
+      "name": "Fe"
+    },
+    {
+      "color": "green",
+      "displayName": "Iron(II) Sulfate",
+      "name": "FeSO4"
+    }
+  ]
+}
