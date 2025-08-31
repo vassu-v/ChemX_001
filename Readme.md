@@ -159,8 +159,8 @@ This is the first stable version so a development branch is there please give a 
 ---
 
 Enjoy simulating and experimenting with ChemX! 👩‍🔬👨‍🔬
+--Shoryavardhaan
 
-                       --Shoryavardhaan
 
 
 
