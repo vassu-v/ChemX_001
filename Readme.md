@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="WebInterface/v1/image.png" alt="ChemX Logo" width="200"/>
+</p>
 
 ---
 
@@ -9,6 +12,9 @@ ChemX is an exciting **physical chemical reaction simulator** that combines Ardu
 - Real-time simulation of chemical reactions 🧪
 - Interactive web interface 💻
 - Arduino-controlled LEDs and electromagnet for visual effects 🔬
+[ 👉 Live Demo (no hardware required) ](https://chemx001.netlify.app/)
+
+
 
 ---
 
@@ -132,7 +138,7 @@ The web interface communicates with the Arduino via **serial**, allowing you to 
 
 Want to see it in action?  
 [Check out a simple simulation of the ChemX project here!](https://wokwi.com/projects/411270808226922497) 🎉
-[Check out a simple WebInterface No-Serial of the ChemX project here!](https://chemx.freewebhostmost.com/) 🎉
+[Check out a simple WebInterface No-Serial of the ChemX project here!](https://chemx001.netlify.app/)🎉
 
 ---
 
@@ -151,4 +157,5 @@ This is the first stable version so a development branch is there please give a 
 ---
 
 Enjoy simulating and experimenting with ChemX! 👩‍🔬👨‍🔬
+
                        --Shoryavardhaan
