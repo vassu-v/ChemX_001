@@ -1,10 +1,10 @@
-<p align="left">
-  <img src="WebInterface/v1/image.png" alt="ChemX Logo" width="200"/>
-</p>
+
 
 ---
 
-# ⚗️ ChemX: An Arduino-Based Chemical Reaction Simulator
+<p align="left">
+  <img src="WebInterface/v1/image.png" alt="ChemX Logo" width="50"/>
+</p>#  ChemX: An Arduino-Based Chemical Reaction Simulator
 
 ChemX is an exciting **physical chemical reaction simulator** that combines Arduino and web technologies to provide an interactive experience of chemical reactions. With its web interface and real-time control of chemical simulations, you can visualize various reactions in a fun and educational way!
 
@@ -159,4 +159,5 @@ This is the first stable version so a development branch is there please give a 
 Enjoy simulating and experimenting with ChemX! 👩‍🔬👨‍🔬
 
                        --Shoryavardhaan
+
 
