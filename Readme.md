@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="WebInterface/v1/image.png" alt="ChemX Logo" width="200"/>
 </p>
 
@@ -159,3 +159,4 @@ This is the first stable version so a development branch is there please give a 
 Enjoy simulating and experimenting with ChemX! 👩‍🔬👨‍🔬
 
                        --Shoryavardhaan
+
